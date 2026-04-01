@@ -4,5 +4,5 @@
 
 ## 规则链接
 
-* 益达旧约：https://raw.githubusercontent.com/strenuousstrain/custom-clash-rules/
-* 益达新约：https://raw.githubusercontent.com/strenuousstrain/custom-clash-rules/
+* 益达旧约：https://raw.githubusercontent.com/strenuousstrain/custom-clash-rules/main/old.txt
+* 益达新约：https://raw.githubusercontent.com/strenuousstrain/custom-clash-rules/main/new.txt
