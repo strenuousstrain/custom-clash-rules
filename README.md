@@ -4,4 +4,4 @@
 
 ## 规则集链接
 
-- https://raw.githubusercontent.com/strenuousstrain/custom-clash-rules/rule-providers/clash.yaml
+- https://raw.githubusercontent.com/strenuousstrain/custom-clash-rules/main/mihomo_rp.yaml
