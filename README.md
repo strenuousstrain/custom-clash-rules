@@ -1,8 +1,7 @@
 # 简介
 
-自用 clash 域名分流规则，不定期更新。
+自用 clash 规则集，不定期更新。
 
-## 规则链接
+## 规则集链接
 
-* 益达旧约：https://raw.githubusercontent.com/strenuousstrain/custom-clash-rules/main/old.txt
-* 益达新约：https://raw.githubusercontent.com/strenuousstrain/custom-clash-rules/main/new.txt
+- https://raw.githubusercontent.com/strenuousstrain/custom-clash-rules/rule-providers/clash.yaml
