@@ -1,4 +1,11 @@
 const NEW_RULE_PROVIDERS = {
+  "applications": {
+    "type": "http",
+    "behavior": "classical",
+    "url": "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt",
+    "path": "./ruleset/applications.yaml",
+    "interval": 86400
+  },
   "emos_proxy": {
     "type": "http",
     "behavior": "classical",
@@ -28,11 +35,18 @@ const NEW_RULE_PROVIDERS = {
     "path": "./ruleset/direct.yaml",
     "interval": 86400
   },
-  "applications": {
+  "icloud": {
     "type": "http",
-    "behavior": "classical",
-    "url": "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt",
-    "path": "./ruleset/applications.yaml",
+    "behavior": "domain",
+    "url": "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt",
+    "path": "./ruleset/icloud.yaml",
+    "interval": 86400
+  },
+  "apple": {
+    "type": "http",
+    "behavior": "domain",
+    "url": "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt",
+    "path": "./ruleset/apple.yaml",
     "interval": 86400
   },
   "lancidr": {
@@ -83,7 +97,7 @@ const NEW_RULES = [
   "DOMAIN-SUFFIX,okemby.wangjunqiang.dev,DIRECT",  //okemby反代2
   "DOMAIN-SUFFIX,okemby.wangjunqiang.indevs.in,DIRECT",  //okemby反代1
   "DOMAIN-SUFFIX,ok.1653.us.ci,DIRECT",  //okemby反代6
-  "DOMAIN-SUFFIX,apps.microsoft.com,DIRECT",  //微软商店网页
+  "DOMAIN-SUFFIX,app.microsoft.com,DIRECT",  //微软商店网页
   "PROCESS-NAME,tixati.exe,DIRECT",
   "PROCESS-NAME,cfst.exe,DIRECT",
   "DOMAIN,clash.razord.top,DIRECT",
@@ -92,6 +106,8 @@ const NEW_RULES = [
   "DOMAIN,yacd.metacubex.one,DIRECT",
   "RULE-SET,private,DIRECT",
   "RULE-SET,reject,REJECT",
+  "RULE-SET,icloud,DIRECT",
+  "RULE-SET,apple,DIRECT",
   "RULE-SET,direct,DIRECT",
   "RULE-SET,applications,DIRECT",
   "RULE-SET,lancidr,DIRECT",
