@@ -115,7 +115,9 @@ const NEW_RULES = [
 ];
 
 function main(config) {
-    if (!config) return config;
+  console.log("🚀 开始执行全局脚本");
+  // 检查 config 是否存在
+  if (!config) return config;
     
   // 处理 rule-providers
   // 检查是否不存在、为空或为 null
