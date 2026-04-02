@@ -98,18 +98,18 @@ const NEW_RULES = [
   "DOMAIN-SUFFIX,okemby.wangjunqiang.indevs.in,DIRECT",  //okemby反代1
   "DOMAIN-SUFFIX,ok.1653.us.ci,DIRECT",  //okemby反代6
   "DOMAIN-SUFFIX,app.microsoft.com,DIRECT",  //微软商店网页
-  "PROCESS-NAME,tixati.exe,DIRECT",
-  "PROCESS-NAME,cfst.exe,DIRECT",
   "DOMAIN,clash.razord.top,DIRECT",
   "DOMAIN,yacd.haishan.me,DIRECT",
   "DOMAIN,board.zash.run.place,DIRECT",
   "DOMAIN,yacd.metacubex.one,DIRECT",
+  "PROCESS-NAME,tixati.exe,DIRECT",
+  "PROCESS-NAME,cfst.exe,DIRECT",
+  "RULE-SET,applications,DIRECT",
   "RULE-SET,private,DIRECT",
   "RULE-SET,reject,REJECT",
   "RULE-SET,icloud,DIRECT",
   "RULE-SET,apple,DIRECT",
   "RULE-SET,direct,DIRECT",
-  "RULE-SET,applications,DIRECT",
   "RULE-SET,lancidr,DIRECT",
   "RULE-SET,cncidr,DIRECT",
 ];
