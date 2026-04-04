@@ -26,6 +26,13 @@ rule-providers:
     url: https://raw.githubusercontent.com/binaryu/emos-proxy-rule/main/rules/emos-mihomo.yaml
     path: ./ruleset/emos-mihomo.yaml
     interval: 86400
+  custom:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://raw.githubusercontent.com/strenuousstrain/custom-clash-rules/main/mihomo.yaml
+    path: ./ruleset/mihomo.yaml
+    interval: 86400
   private:
     type: http
     behavior: domain
@@ -72,6 +79,7 @@ rule-providers:
 rules:
   - RULE-SET,applications,DIRECT
   - RULE-SET,emos_proxy,DIRECT
+  - RULE-SET,custom,DIRECT
   - RULE-SET,private,DIRECT
   - RULE-SET,reject,DIRECT
   - RULE-SET,direct,DIRECT
