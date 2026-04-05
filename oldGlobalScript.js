@@ -4,10 +4,10 @@
  * @param prependRule 添加的数组
  */
 const prependRule = [
-  "RULE-SET,emos_proxy,DIRECT",  //emos反代规则集  
   "DOMAIN-KEYWORD,lyezi,DIRECT",  //叶子线路
   "DOMAIN-KEYWORD,epicgames,DIRECT",  //epic
-  "DOMAIN-SUFFIX,ihop.dpdns.org,DIRECT",  //自用反代
+  "DOMAIN-SUFFIX,ihop.dpdns.org,DIRECT",  //自用反代 HR版
+  "DOMAIN-SUFFIX,ihop.us.ci,DIRECT",  //自用反代 玛卡巴卡版
   "DOMAIN-SUFFIX,dolby.dpdns.org,DIRECT",  //luo反代
   "DOMAIN-SUFFIX,liuerao.dpdns.org,DIRECT",  //aoao反代1
   "DOMAIN-SUFFIX,liuer.bbroot.com,DIRECT",  //aoao反代2
@@ -20,13 +20,13 @@ const prependRule = [
   "DOMAIN-SUFFIX,fx.emby1.ccwu.cc,DIRECT",  //Fx反代1
   "DOMAIN-SUFFIX,fx.emby2.ccwu.cc,DIRECT",  //Fx反代2
   "DOMAIN-SUFFIX,fx.emby3.ccwu.cc,DIRECT",  //Fx反代3
-  "DOMAIN-SUFFIX,jiedaibao.gs,DIRECT", //Mirai线路2推流地址
+  "DOMAIN-SUFFIX,duckoj.com,DIRECT",  //Lily服群友蔡徐坤反代
+  "DOMAIN-SUFFIX,sbz.mac89.com,DIRECT", //Mirai线路2推流地址
   "DOMAIN-SUFFIX,mi2.miraiemby.com,DIRECT", //Mirai线路2
   "DOMAIN-SUFFIX,yz.200036.xyz,DIRECT",  //叶子测试线路
   "DOMAIN-SUFFIX,emby.4348663.xyz,DIRECT",  //月之轩线路
   "DOMAIN-SUFFIX,dayimakk.sharepoint.cn,DIRECT",  //月之轩推流线路
   "DOMAIN-SUFFIX,cdn.picui.cn,DIRECT",  //月之轩CDN线路
-  "DOMAIN-SUFFIX,mecf.mebimmer.de,DIRECT",  //M臻享CF线路
   "DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca,DIRECT", //Nya大陆线路1
   "DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca,DIRECT",  //Nya大陆线路2
   "DOMAIN-SUFFIX,cm.cdn.bgp.yt,DIRECT",  //二次元CF线路
@@ -35,17 +35,13 @@ const prependRule = [
   "DOMAIN-SUFFIX,okemby.wangjunqiang.indevs.in,DIRECT",  //okemby反代1
   "DOMAIN-SUFFIX,ok.1653.us.ci,DIRECT",  //okemby反代6
   "DOMAIN-SUFFIX,apps.microsoft.com,DIRECT",  //微软商店网页
-  "PROCESS-NAME,aria2c.exe,DIRECT",
-  "PROCESS-NAME,qbittorrent.exe,DIRECT",
-  "PROCESS-NAME,BitComet.exe,DIRECT",
-  "PROCESS-NAME,tixati.exe,DIRECT",
-  "PROCESS-NAME,Thunder.exe,DIRECT",
-  "PROCESS-NAME,DownloadSDKServer.exe,DIRECT",
-  "PROCESS-NAME,cfst.exe,DIRECT",
   "DOMAIN,clash.razord.top,DIRECT",
   "DOMAIN,yacd.haishan.me,DIRECT",
   "DOMAIN,board.zash.run.place,DIRECT",
   "DOMAIN,yacd.metacubex.one,DIRECT",
+  "PROCESS-NAME,tixati.exe,DIRECT",
+  "PROCESS-NAME,cfst.exe,DIRECT",
+  "IP-CIDR,192.168.31.1,DIRECT"
 ];
 
 function main(config) {
