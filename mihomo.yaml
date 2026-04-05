@@ -37,4 +37,3 @@ payload:
   - DOMAIN,yacd.metacubex.one
   - PROCESS-NAME,tixati.exe
   - PROCESS-NAME,cfst.exe
-  - IP-CIDR,192.168.31.1
