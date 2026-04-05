@@ -40,8 +40,7 @@ const prependRule = [
   "DOMAIN,board.zash.run.place,DIRECT",
   "DOMAIN,yacd.metacubex.one,DIRECT",
   "PROCESS-NAME,tixati.exe,DIRECT",
-  "PROCESS-NAME,cfst.exe,DIRECT",
-  "IP-CIDR,192.168.31.1,DIRECT"
+  "PROCESS-NAME,cfst.exe,DIRECT"
 ];
 
 function main(config) {
