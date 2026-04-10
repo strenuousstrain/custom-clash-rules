@@ -1,4 +1,4 @@
-#2026-4-11-3:10 更新
+#2026-4-11-5:56 更新
 payload:
   - DOMAIN-KEYWORD,lyezi
   - DOMAIN-KEYWORD,epicgames
@@ -24,6 +24,8 @@ payload:
   - DOMAIN-SUFFIX,saodu6.top
   - DOMAIN-SUFFIX,saodu6.cn
   - DOMAIN-SUFFIX,5165163.xyz
+  - DOMAIN-SUFFIX,v4.iemby.cn
+  - DOMAIN-SUFFIX,e.iemby.cn
   - DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
   - DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca
   - DOMAIN-SUFFIX,cm.cdn.bgp.yt
