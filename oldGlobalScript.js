@@ -23,6 +23,7 @@ const prependRule = [
   "DOMAIN-SUFFIX,duckoj.com,DIRECT",  //Lily服群友蔡徐坤反代
   "DOMAIN-SUFFIX,sbz.mac89.com,DIRECT", //Mirai线路2推流地址
   "DOMAIN-SUFFIX,mi2.miraiemby.com,DIRECT", //Mirai线路2
+  "DOMAIN-SUFFIX,fd1.kingemby.xyz,DIRECT",  //小虾米公益官方反代
   "DOMAIN-SUFFIX,yz.200036.xyz,DIRECT",  //叶子测试线路
   "DOMAIN-SUFFIX,emby.4348663.xyz,DIRECT",  //月之轩线路
   "DOMAIN-SUFFIX,dayimakk.sharepoint.cn,DIRECT",  //月之轩推流线路
