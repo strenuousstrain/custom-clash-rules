@@ -29,7 +29,6 @@ payload:
   - DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
   - DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca
   - DOMAIN-SUFFIX,cm.cdn.bgp.yt
-  - DOMAIN-SUFFIX,gousen.cc.cd
   - DOMAIN-SUFFIX,okemby.wangjunqiang.dev
   - DOMAIN-SUFFIX,okemby.wangjunqiang.indevs.in
   - DOMAIN-SUFFIX,ok.1653.us.ci
