@@ -28,8 +28,6 @@ const prependRule = [
   "DOMAIN-SUFFIX,saodu6.top,DIRECT",  //MDL公益线路电信一
   "DOMAIN-SUFFIX,saodu6.cn,DIRECT",  //MDL公益线路电信二
   "DOMAIN-SUFFIX,5165163.xyz,DIRECT",  //MDL公益线路联通一
-  "DOMAIN-SUFFIX,v4.iemby.cn,DIRECT",  //不吃香菜v4
-  "DOMAIN-SUFFIX,e.iemby.cn,DIRECT",  //不吃香菜v6
   "DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca,DIRECT", //Nya大陆线路1
   "DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca,DIRECT",  //Nya大陆线路2
   "DOMAIN-SUFFIX,cm.cdn.bgp.yt,DIRECT",  //二次元CF线路
