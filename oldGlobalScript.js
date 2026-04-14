@@ -7,7 +7,7 @@ const prependRule = [
   "DOMAIN-KEYWORD,lyezi,DIRECT",  //叶子线路
   "DOMAIN-KEYWORD,epicgames,DIRECT",  //epic
   "DOMAIN-SUFFIX,ihop.dpdns.org,DIRECT",  //自用反代 HR版
-  "DOMAIN-SUFFIX,ihop.us.ci,DIRECT",  //自用反代 玛卡巴卡版
+  "DOMAIN-SUFFIX,ihop.ccwu.cc,DIRECT",  //自用反代 玛卡巴卡版
   "DOMAIN-SUFFIX,dolby.dpdns.org,DIRECT",  //luo反代
   "DOMAIN-SUFFIX,liuerao.dpdns.org,DIRECT",  //aoao反代1
   "DOMAIN-SUFFIX,liuer.bbroot.com,DIRECT",  //aoao反代2
