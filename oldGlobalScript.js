@@ -25,6 +25,7 @@ const prependRule = [
   "DOMAIN-SUFFIX,mi2.miraiemby.com,DIRECT", //Mirai线路2
   "DOMAIN-SUFFIX,fd1.kingemby.xyz,DIRECT",  //小虾米公益官方反代
   "DOMAIN-SUFFIX,yz.200036.xyz,DIRECT",  //叶子测试线路
+  "DOMAIN-SUFFIX,emby.taotu.ink,DIRECT", //乐蛙影视站线路
   "DOMAIN-SUFFIX,saodu6.top,DIRECT",  //MDL公益线路电信一
   "DOMAIN-SUFFIX,saodu6.cn,DIRECT",  //MDL公益线路电信二
   "DOMAIN-SUFFIX,5165163.xyz,DIRECT",  //MDL公益线路联通一
