@@ -1,4 +1,4 @@
-#2026-4-20-01:58 更新
+#2026-4-24-02:26 更新
 payload:
   - DOMAIN-KEYWORD,lyezi
   - DOMAIN-KEYWORD,epicgames
@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,mwp.cnmbyd.xyz
   - DOMAIN-SUFFIX,mwp.fw1.de5.net
   - DOMAIN-SUFFIX,mwp.sbcnm.us.ci
+  - DOMAIN-SUFFIX,772111.xyz
   - DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
   - DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca
   - DOMAIN-SUFFIX,cm.cdn.bgp.yt
