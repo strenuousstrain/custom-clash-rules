@@ -28,6 +28,7 @@
   "DOMAIN-SUFFIX,mwp.cnmbyd.xyz,DIRECT",  //风月阁三网优化线路三
   "DOMAIN-SUFFIX,mwp.fw1.de5.net,DIRECT",  //风月阁三网优化线路四
   "DOMAIN-SUFFIX,mwp.sbcnm.us.ci,DIRECT",  //风月阁移动优化线路
+  "DOMAIN-SUFFIX,772111.xyz,DIRECT",  //niubi线路
   "DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca,DIRECT", //Nya大陆线路1
   "DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca,DIRECT",  //Nya大陆线路2
   "DOMAIN-SUFFIX,cm.cdn.bgp.yt,DIRECT",  //二次元CF线路
