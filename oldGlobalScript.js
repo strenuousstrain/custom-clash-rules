@@ -21,6 +21,7 @@ const prependRule = [
   "DOMAIN-SUFFIX,fx.emby2.ccwu.cc,DIRECT",  //Fx反代2
   "DOMAIN-SUFFIX,fx.emby3.ccwu.cc,DIRECT",  //Fx反代3
   "DOMAIN-SUFFIX,duckoj.com,DIRECT",  //Lily服群友蔡徐坤反代
+  "DOMAIN-SUFFIX,youko.cc.cd,DIRECT",  //youko拾光反代
   "DOMAIN-SUFFIX,sbz.mac89.com,DIRECT", //Mirai线路2推流地址
   "DOMAIN-SUFFIX,mi2.miraiemby.com,DIRECT", //Mirai线路2
   "DOMAIN-SUFFIX,fd1.kingemby.xyz,DIRECT",  //小虾米公益官方反代
