@@ -1,4 +1,4 @@
-#2026-4-24-02:26 更新
+#2026-5-3-01:47 更新
 payload:
   - DOMAIN-KEYWORD,lyezi
   - DOMAIN-KEYWORD,epicgames
@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,fx.emby1.ccwu.cc
   - DOMAIN-SUFFIX,fx.emby2.ccwu.cc
   - DOMAIN-SUFFIX,fx.emby3.ccwu.cc
+  - DOMAIN-SUFFIX,youko.cc.cd
   - DOMAIN-SUFFIX,duckoj.com
   - DOMAIN-SUFFIX,sbz.mac89.com
   - DOMAIN-SUFFIX,mi2.miraiemby.com
