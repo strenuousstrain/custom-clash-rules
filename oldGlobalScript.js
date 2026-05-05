@@ -34,10 +34,10 @@ const prependRule = [
   "DOMAIN-SUFFIX,tufei.de,DIRECT",  //TFTV线路1
   "DOMAIN-SUFFIX,hao5.de,DIRECT",  //TFTV线路2
   "DOMAIN-SUFFIX,yong9.de,DIRECT",  //TFTV线路3
-  "DOMAIN-SUFFIX,772111.xyz,DIRECT",  //niubi线路
   "DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca,DIRECT", //Nya大陆线路1
   "DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca,DIRECT",  //Nya大陆线路2
-  "DOMAIN-SUFFIX,cm.cdn.bgp.yt,DIRECT",  //二次元CF线路
+  "DOMAIN-SUFFIX,cm.cdn.bgp.yt,DIRECT",  //二次元CF分流3线路
+  "DOMAIN-SUFFIX,ct.cdn.bgp.yt,DIRECT",  //二次元VNPT分流4线路
   "DOMAIN-SUFFIX,okemby.wangjunqiang.dev,DIRECT",  //okemby反代2
   "DOMAIN-SUFFIX,okemby.wangjunqiang.indevs.in,DIRECT",  //okemby反代1
   "DOMAIN-SUFFIX,ok.1653.us.ci,DIRECT",  //okemby反代6
