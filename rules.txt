@@ -19,7 +19,7 @@
   "DOMAIN-SUFFIX,youko.cc.cd,DIRECT",  //youko拾光反代
   "DOMAIN-SUFFIX,sbz.mac89.com,DIRECT", //Mirai线路2推流地址
   "DOMAIN-SUFFIX,mi2.miraiemby.com,DIRECT",  //Mirai线路2
-  "DOMAIN-SUFFIX,emby.pivkeyu.com,DIRECT",  //梦蝶主线路
+  "DOMAIN-SUFFIX,pivkeyu.com,DIRECT",  //梦蝶主线路
   "DOMAIN-SUFFIX,bydsb.cc.cd,DIRECT",  //梦蝶三网优化1
   "DOMAIN-SUFFIX,cnmbyd.de5.net,DIRECT",  //梦蝶三网优化2
   "DOMAIN-SUFFIX,cnmbyd.xyz,DIRECT",  //梦蝶三网优化3
