@@ -36,6 +36,7 @@ const prependRule = [
   "DOMAIN-SUFFIX,saodu6.top,DIRECT",  //MDL公益线路电信一
   "DOMAIN-SUFFIX,saodu6.cn,DIRECT",  //MDL公益线路电信二
   "DOMAIN-SUFFIX,5165163.xyz,DIRECT",  //MDL公益线路联通一
+  "DOMAIN-SUFFIX,ty302.saodu.wang,DIRECT",  //MDL天翼302线路
   "DOMAIN-SUFFIX,tufei.de,DIRECT",  //TFTV线路1
   "DOMAIN-SUFFIX,hao5.de,DIRECT",  //TFTV线路2
   "DOMAIN-SUFFIX,yong9.de,DIRECT",  //TFTV线路3
