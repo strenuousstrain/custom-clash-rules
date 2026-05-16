@@ -25,12 +25,16 @@ const prependRule = [
   "DOMAIN-SUFFIX,youko.cc.cd,DIRECT",  //youko拾光反代
   "DOMAIN-SUFFIX,sbz.mac89.com,DIRECT", //Mirai线路2推流地址
   "DOMAIN-SUFFIX,mi2.miraiemby.com,DIRECT", //Mirai线路2
-  "DOMAIN-SUFFIX,pivkeyu.com,DIRECT",  //梦蝶主线路
-  "DOMAIN-SUFFIX,bydsb.cc.cd,DIRECT",  //梦蝶三网优化1
-  "DOMAIN-SUFFIX,cnmbyd.de5.net,DIRECT",  //梦蝶三网优化2
-  "DOMAIN-SUFFIX,cnmbyd.xyz,DIRECT",  //梦蝶三网优化3
-  "DOMAIN-SUFFIX,fw1.de5.net,DIRECT",  //梦蝶三网优化4
-  "DOMAIN-SUFFIX,sbcnm.us.ci,DIRECT",  //梦蝶移动优化
+  "DOMAIN-SUFFIX,a.wedg.top,DIRECT",  //we主线路
+  "DOMAIN-SUFFIX,tt.wedg.top,DIRECT",  //we主线路2
+  "DOMAIN-SUFFIX,cf.wedg.top,DIRECT",  //we三网直连
+  "DOMAIN-SUFFIX,cmcc.wedg.top,DIRECT",  //we移动线路
+  "DOMAIN-SUFFIX,emby.pivkeyu.com,DIRECT",  //梦蝶主线路
+  "DOMAIN-SUFFIX,md.bydsb.cc.cd,DIRECT",  //梦蝶三网优化1
+  "DOMAIN-SUFFIX,md.cnmbyd.de5.net,DIRECT",  //梦蝶三网优化2
+  "DOMAIN-SUFFIX,md.cnmbyd.xyz,DIRECT",  //梦蝶三网优化3
+  "DOMAIN-SUFFIX,md.fw1.de5.net,DIRECT",  //梦蝶三网优化4
+  "DOMAIN-SUFFIX,md.sbcnm.us.ci,DIRECT",  //梦蝶移动优化
   "DOMAIN-SUFFIX,yz.200036.xyz,DIRECT",  //叶子测试线路
   "DOMAIN-SUFFIX,emby.taotu.ink,DIRECT", //乐蛙影视站线路
   "DOMAIN-SUFFIX,saodu6.top,DIRECT",  //MDL公益线路电信一
