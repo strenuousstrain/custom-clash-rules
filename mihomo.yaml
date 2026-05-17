@@ -1,4 +1,4 @@
-#2026-5-7-07:30 更新
+#2026-5-18-05:00 更新
 payload:
   - DOMAIN-KEYWORD,lyezi
   - DOMAIN-KEYWORD,coolgua
@@ -17,6 +17,9 @@ payload:
   - DOMAIN-SUFFIX,fx.emby1.ccwu.cc
   - DOMAIN-SUFFIX,fx.emby2.ccwu.cc
   - DOMAIN-SUFFIX,fx.emby3.ccwu.cc
+  - DOMAIN-SUFFIX,nginxlily.cyou
+  - DOMAIN-SUFFIX,a1.steinsgate.eu.org
+  - DOMAIN-SUFFIX,lilyemby.bbroot.com
   - DOMAIN-SUFFIX,youko.cc.cd
   - DOMAIN-SUFFIX,duckoj.com
   - DOMAIN-SUFFIX,sbz.mac89.com
