@@ -11,8 +11,8 @@ const prependRule = [
   "DOMAIN-SUFFIX,ihop.dpdns.org,DIRECT",  //自用反代 HR版
   "DOMAIN-SUFFIX,ihop.ccwu.cc,DIRECT",  //自用反代 玛卡巴卡版
   "DOMAIN-SUFFIX,dolby.dpdns.org,DIRECT",  //luo反代
-  "DOMAIN-SUFFIX,liuerao.dpdns.org,DIRECT",  //aoao反代1
-  "DOMAIN-SUFFIX,liuer.bbroot.com,DIRECT",  //aoao反代2
+  "DOMAIN-SUFFIX,liuerao.dpdns.org,DIRECT",  //liuer反代1
+  "DOMAIN-SUFFIX,liuer.bbroot.com,DIRECT",  //liuer反代2
   "DOMAIN-SUFFIX,embys.dpdns.org,DIRECT",  //空白反代
   "DOMAIN-SUFFIX,dirige.de5.net,DIRECT",  //蒂日反代(三网)
   "DOMAIN-SUFFIX,255432.cc.cd,DIRECT",  //蒂日反代(移动)
@@ -26,7 +26,7 @@ const prependRule = [
   "DOMAIN-SUFFIX,a1.steinsgate.eu.org,DIRECT",  //luo佬lily反代
   "DOMAIN-SUFFIX,lilyemby.bbroot.com,DIRECT",  //top佬lily反代
   "DOMAIN-SUFFIX,duckoj.com,DIRECT",  //Lily服群友蔡徐坤反代
-  "DOMAIN-SUFFIX,youko.cc.cd,DIRECT",  //youko拾光反代
+  "DOMAIN-SUFFIX,youko.cc.cd,DIRECT",  //youko反代
   "DOMAIN-SUFFIX,sbz.mac89.com,DIRECT", //Mirai线路2推流地址
   "DOMAIN-SUFFIX,mi2.miraiemby.com,DIRECT", //Mirai线路2
   "DOMAIN-SUFFIX,a.wedg.top,DIRECT",  //we主线路
@@ -56,7 +56,6 @@ const prependRule = [
   "DOMAIN-SUFFIX,n150.asia,DIRECT",  //瞬影线路
   "DOMAIN-SUFFIX,okemby.wangjunqiang.dev,DIRECT",  //okemby反代2
   "DOMAIN-SUFFIX,okemby.wangjunqiang.indevs.in,DIRECT",  //okemby反代1
-  "DOMAIN-SUFFIX,ok.1653.us.ci,DIRECT",  //okemby反代6
   "DOMAIN-SUFFIX,apps.microsoft.com,DIRECT",  //微软商店网页
   "DOMAIN,clash.razord.top,DIRECT",
   "DOMAIN,yacd.haishan.me,DIRECT",
