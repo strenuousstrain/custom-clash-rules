@@ -53,7 +53,6 @@ const prependRule = [
   "DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca,DIRECT",  //Nya大陆线路2
   "DOMAIN-SUFFIX,cm.cdn.bgp.yt,DIRECT",  //二次元CF分流3线路
   "DOMAIN-SUFFIX,ct.cdn.bgp.yt,DIRECT",  //二次元VNPT分流4线路
-  "DOMAIN-SUFFIX,n150.asia,DIRECT",  //瞬影线路
   "DOMAIN-SUFFIX,okemby.wangjunqiang.dev,DIRECT",  //okemby反代2
   "DOMAIN-SUFFIX,okemby.wangjunqiang.indevs.in,DIRECT",  //okemby反代1
   "DOMAIN-SUFFIX,apps.microsoft.com,DIRECT",  //微软商店网页
