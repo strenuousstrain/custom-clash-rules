@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,a.wedg.top
   - DOMAIN-SUFFIX,tt.wedg.top
   - DOMAIN-SUFFIX,cf.wedg.top
+  - DOMAIN-SUFFIX,jp.wedg.top
   - DOMAIN-SUFFIX,cmcc.wedg.top
   - DOMAIN-SUFFIX,emby.pivkeyu.com
   - DOMAIN-SUFFIX,bydsb.cc.cd

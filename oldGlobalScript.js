@@ -32,6 +32,7 @@ const prependRule = [
   "DOMAIN-SUFFIX,a.wedg.top,DIRECT",  //we主线路
   "DOMAIN-SUFFIX,tt.wedg.top,DIRECT",  //we主线路2
   "DOMAIN-SUFFIX,cf.wedg.top,DIRECT",  //we三网直连
+  "DOMAIN-SUFFIX,jp.wedg.top,DIRECT",  //we三网直连2
   "DOMAIN-SUFFIX,cmcc.wedg.top,DIRECT",  //we移动线路
   "DOMAIN-SUFFIX,emby.pivkeyu.com,DIRECT",  //梦蝶主线路
   "DOMAIN-SUFFIX,bydsb.cc.cd,DIRECT",  //梦蝶三网优化1
