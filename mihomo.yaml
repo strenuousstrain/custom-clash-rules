@@ -1,8 +1,7 @@
-#2026-5-30-01:29 更新
+#2026-6-2-05:24 更新
 payload:
   - DOMAIN-KEYWORD,lyezi
   - DOMAIN-KEYWORD,yusen
-  - DOMAIN-KEYWORD,coolgua
   - DOMAIN-KEYWORD,epicgames
   - DOMAIN-SUFFIX,ihop.dpdns.org
   - DOMAIN-SUFFIX,ihop.ccwu.cc
@@ -43,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,5165163.xyz
   - DOMAIN-SUFFIX,ty302.saodu.wang
   - DOMAIN-SUFFIX,iemby.cn
+  - DOMAIN-SUFFIX,emby.5625678.xyz
   - DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
   - DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca
   - DOMAIN-SUFFIX,cm.cdn.bgp.yt

@@ -1,6 +1,5 @@
   "DOMAIN-KEYWORD,lyezi,DIRECT",  //叶子线路
   "DOMAIN-KEYWORD,yusen,DIRECT",  //屿森线路
-  "DOMAIN-KEYWORD,coolgua,DIRECT",  //Coolgua线路
   "DOMAIN-KEYWORD,epicgames,DIRECT",  //epic
   "DOMAIN-SUFFIX,ihop.dpdns.org,DIRECT",  //自用反代 HR版
   "DOMAIN-SUFFIX,ihop.ccwu.cc,DIRECT",  //自用反代 玛卡巴卡版
@@ -41,6 +40,7 @@
   "DOMAIN-SUFFIX,5165163.xyz,DIRECT",  //MDL公益线路联通一
   "DOMAIN-SUFFIX,ty302.saodu.wang,DIRECT",  //MDL天翼302线路
   "DOMAIN-SUFFIX,iemby.cn,DIRECT",  //不吃香菜线路
+  "DOMAIN-SUFFIX,emby.5625678.xyz,DIRECT",  //Coolgua线路
   "DOMAIN-SUFFIX,tufei.de,DIRECT",  //TFTV线路1
   "DOMAIN-SUFFIX,hao5.de,DIRECT",  //TFTV线路2
   "DOMAIN-SUFFIX,yong9.de,DIRECT",  //TFTV线路3
