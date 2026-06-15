@@ -1,8 +1,8 @@
   "DOMAIN-KEYWORD,lyezi,DIRECT",  //叶子线路
   "DOMAIN-KEYWORD,yusen,DIRECT",  //屿森线路
   "DOMAIN-KEYWORD,epicgames,DIRECT",  //epic
-  "DOMAIN-SUFFIX,ihop.dpdns.org,DIRECT",  //自用反代 HR版
-  "DOMAIN-SUFFIX,ihop.ccwu.cc,DIRECT",  //自用反代 玛卡巴卡版
+  "DOMAIN-SUFFIX,ihop.dpdns.org,DIRECT",  //自用反代 现用域名
+  "DOMAIN-SUFFIX,ihop.ccwu.cc,DIRECT",  //自用反代 待用域名
   "DOMAIN-SUFFIX,dolby.dpdns.org,DIRECT",  //luo反代
   "DOMAIN-SUFFIX,liuerao.dpdns.org,DIRECT",  //liuer反代1
   "DOMAIN-SUFFIX,liuer.bbroot.com,DIRECT",  //liuer反代2
@@ -16,12 +16,8 @@
   "DOMAIN-SUFFIX,fx.emby2.ccwu.cc,DIRECT",  //Fx反代2
   "DOMAIN-SUFFIX,fx.emby3.ccwu.cc,DIRECT",  //Fx反代3
   "DOMAIN-SUFFIX,lilyemby.cc,DIRECT",  //lily官方反代
-  "DOMAIN-SUFFIX,a1.steinsgate.eu.org,DIRECT",  //luo佬lily反代
-  "DOMAIN-SUFFIX,lilyemby.bbroot.com,DIRECT",  //top佬lily反代
-  "DOMAIN-SUFFIX,duckoj.com,DIRECT",  //Lily服群友蔡徐坤反代
-  "DOMAIN-SUFFIX,youko.cc.cd,DIRECT",  //youko反代
-  "DOMAIN-SUFFIX,sbz.mac89.com,DIRECT", //Mirai线路2推流地址
-  "DOMAIN-SUFFIX,mi2.miraiemby.com,DIRECT",  //Mirai线路2
+  "DOMAIN-SUFFIX,stream-2.miraiemby.com,DIRECT", //Mirai线路2推流地址
+  "DOMAIN-SUFFIX,vip1.miraiemby.com,DIRECT",  //Mirai线路2
   "DOMAIN-SUFFIX,a.wedg.top,DIRECT",  //we主线路
   "DOMAIN-SUFFIX,tt.wedg.top,DIRECT",  //we主线路2
   "DOMAIN-SUFFIX,cf.wedg.top,DIRECT",  //we三网直连
@@ -41,9 +37,6 @@
   "DOMAIN-SUFFIX,ty302.saodu.wang,DIRECT",  //MDL天翼302线路
   "DOMAIN-SUFFIX,iemby.cn,DIRECT",  //不吃香菜线路
   "DOMAIN-SUFFIX,emby.5625678.xyz,DIRECT",  //Coolgua线路
-  "DOMAIN-SUFFIX,tufei.de,DIRECT",  //TFTV线路1
-  "DOMAIN-SUFFIX,hao5.de,DIRECT",  //TFTV线路2
-  "DOMAIN-SUFFIX,yong9.de,DIRECT",  //TFTV线路3
   "DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca,DIRECT", //Nya大陆线路1
   "DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca,DIRECT",  //Nya大陆线路2
   "DOMAIN-SUFFIX,cm.cdn.bgp.yt,DIRECT",  //二次元CF分流3线路

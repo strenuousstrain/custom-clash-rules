@@ -1,4 +1,4 @@
-#2026-6-2-05:24 更新
+#2026-6-16-04:49 更新
 payload:
   - DOMAIN-KEYWORD,lyezi
   - DOMAIN-KEYWORD,yusen
@@ -18,12 +18,8 @@ payload:
   - DOMAIN-SUFFIX,fx.emby2.ccwu.cc
   - DOMAIN-SUFFIX,fx.emby3.ccwu.cc
   - DOMAIN-SUFFIX,lilyemby.cc
-  - DOMAIN-SUFFIX,a1.steinsgate.eu.org
-  - DOMAIN-SUFFIX,lilyemby.bbroot.com
-  - DOMAIN-SUFFIX,youko.cc.cd
-  - DOMAIN-SUFFIX,duckoj.com
-  - DOMAIN-SUFFIX,sbz.mac89.com
-  - DOMAIN-SUFFIX,mi2.miraiemby.com
+  - DOMAIN-SUFFIX,stream-2.miraiemby.com
+  - DOMAIN-SUFFIX,vip1.miraiemby.com
   - DOMAIN-SUFFIX,a.wedg.top
   - DOMAIN-SUFFIX,tt.wedg.top
   - DOMAIN-SUFFIX,cf.wedg.top
@@ -49,9 +45,6 @@ payload:
   - DOMAIN-SUFFIX,ct.cdn.bgp.yt
   - DOMAIN-SUFFIX,okemby.wangjunqiang.dev
   - DOMAIN-SUFFIX,okemby.wangjunqiang.indevs.in
-  - DOMAIN-SUFFIX,tufei.de
-  - DOMAIN-SUFFIX,hao5.de
-  - DOMAIN-SUFFIX,yong9.de
   - DOMAIN-SUFFIX,apps.microsoft.com
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
