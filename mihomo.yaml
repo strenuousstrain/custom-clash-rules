@@ -1,4 +1,4 @@
-#2026-6-16-04:49 更新
+#2026-6-16-12:18 更新
 payload:
   - DOMAIN-KEYWORD,lyezi
   - DOMAIN-KEYWORD,yusen
@@ -18,6 +18,8 @@ payload:
   - DOMAIN-SUFFIX,fx.emby2.ccwu.cc
   - DOMAIN-SUFFIX,fx.emby3.ccwu.cc
   - DOMAIN-SUFFIX,lilyemby.cc
+  - DOMAIN-SUFFIX,zz.zhouou6.ccwu.cc
+  - DOMAIN-SUFFIX,1653.us.ci
   - DOMAIN-SUFFIX,stream-2.miraiemby.com
   - DOMAIN-SUFFIX,vip1.miraiemby.com
   - DOMAIN-SUFFIX,a.wedg.top
