@@ -1,5 +1,3 @@
-  "DOMAIN-KEYWORD,lyezi,DIRECT",  //叶子线路
-  "DOMAIN-KEYWORD,yusen,DIRECT",  //屿森线路
   "DOMAIN-KEYWORD,epicgames,DIRECT",  //epic
   "DOMAIN-SUFFIX,ihop.dpdns.org,DIRECT",  //自用反代 现用域名
   "DOMAIN-SUFFIX,ihop.ccwu.cc,DIRECT",  //自用反代 待用域名
@@ -25,19 +23,12 @@
   "DOMAIN-SUFFIX,cf.wedg.top,DIRECT",  //we三网直连
   "DOMAIN-SUFFIX,jp.wedg.top,DIRECT",  //we三网直连2
   "DOMAIN-SUFFIX,cmcc.wedg.top,DIRECT",  //we移动线路
-  "DOMAIN-SUFFIX,emby.pivkeyu.com,DIRECT",  //梦蝶主线路
-  "DOMAIN-SUFFIX,bydsb.cc.cd,DIRECT",  //梦蝶三网优化1
-  "DOMAIN-SUFFIX,cnmbyd.de5.net,DIRECT",  //梦蝶三网优化2
-  "DOMAIN-SUFFIX,cnmbyd.xyz,DIRECT",  //梦蝶三网优化3
-  "DOMAIN-SUFFIX,fw1.de5.net,DIRECT",  //梦蝶三网优化4
-  "DOMAIN-SUFFIX,sbcnm.us.ci,DIRECT",  //梦蝶移动优化
   "DOMAIN-SUFFIX,yz.200036.xyz,DIRECT",  //叶子测试线路
   "DOMAIN-SUFFIX,emby.taotu.ink,DIRECT", //乐蛙影视站线路
   "DOMAIN-SUFFIX,saodu6.top,DIRECT",  //MDL公益线路电信一
   "DOMAIN-SUFFIX,saodu6.cn,DIRECT",  //MDL公益线路电信二
   "DOMAIN-SUFFIX,5165163.xyz,DIRECT",  //MDL公益线路联通一
   "DOMAIN-SUFFIX,ty302.saodu.wang,DIRECT",  //MDL天翼302线路
-  "DOMAIN-SUFFIX,iemby.cn,DIRECT",  //不吃香菜线路
   "DOMAIN-SUFFIX,emby.5625678.xyz,DIRECT",  //Coolgua线路
   "DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca,DIRECT", //Nya大陆线路1
   "DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca,DIRECT",  //Nya大陆线路2
