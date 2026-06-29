@@ -1,4 +1,4 @@
-#2026-6-29-07:16 更新
+#2026-6-30-00:36 更新
 payload:
   - DOMAIN-KEYWORD,epicgames
   - DOMAIN-SUFFIX,ihop.dpdns.org
@@ -38,6 +38,9 @@ payload:
   - DOMAIN-SUFFIX,ct.cdn.bgp.yt
   - DOMAIN-SUFFIX,okemby.wangjunqiang.dev
   - DOMAIN-SUFFIX,okemby.wangjunqiang.indevs.in
+  - DOMAIN-SUFFIX,ct.772111.xyz
+  - DOMAIN-SUFFIX,cu.772111.xyz
+  - DOMAIN-SUFFIX,cm.772111.xyz
   - DOMAIN-SUFFIX,apps.microsoft.com
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
