@@ -14,6 +14,8 @@
   "DOMAIN-SUFFIX,fx.emby2.ccwu.cc,DIRECT",  //Fx反代2
   "DOMAIN-SUFFIX,fx.emby3.ccwu.cc,DIRECT",  //Fx反代3
   "DOMAIN-SUFFIX,lilyemby.cc,DIRECT",  //lily官方反代
+  "DOMAIN-SUFFIX,embys.bbroot.com,DIRECT",  //墨云阁群友top通用反代
+  "DOMAIN-SUFFIX,v2go.cc.cd,DIRECT",  //墨云阁群友亦心通用反代
   "DOMAIN-SUFFIX,zz.zhouou6.ccwu.cc,DIRECT",  //拾光群友睡觉反代
   "DOMAIN-SUFFIX,1653.us.ci,DIRECT",  //拾光群友吴亦凡反代
   "DOMAIN-SUFFIX,stream-2.miraiemby.com,DIRECT", //Mirai线路2推流地址
