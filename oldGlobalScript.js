@@ -20,7 +20,8 @@ const prependRule = [
   "DOMAIN-SUFFIX,fx.emby1.ccwu.cc,DIRECT",  //Fx反代1
   "DOMAIN-SUFFIX,fx.emby2.ccwu.cc,DIRECT",  //Fx反代2
   "DOMAIN-SUFFIX,fx.emby3.ccwu.cc,DIRECT",  //Fx反代3
-  "DOMAIN-SUFFIX,lilyemby.cc,DIRECT",  //lily官方反代
+  "DOMAIN-SUFFIX,lilyemby.cc,DIRECT",  //lilyemby官方反代
+  "DOMAIN-SUFFIX,steinsgate.eu.org,DIRECT",  //lilyemby luo反代
   "DOMAIN-SUFFIX,embys.bbroot.com,DIRECT",  //墨云阁群友top通用反代
   "DOMAIN-SUFFIX,v2go.cc.cd,DIRECT",  //墨云阁群友亦心通用反代
   "DOMAIN-SUFFIX,zz.zhouou6.ccwu.cc,DIRECT",  //拾光群友睡觉反代
