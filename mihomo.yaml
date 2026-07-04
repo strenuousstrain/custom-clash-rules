@@ -1,6 +1,7 @@
-#2026-7-02-12:51 更新
+#2026-7-4-21:18 更新
 payload:
   - DOMAIN-KEYWORD,epicgames
+  - DOMAIN-KEYWORD,yusen
   - DOMAIN-SUFFIX,ihop.dpdns.org
   - DOMAIN-SUFFIX,ihop.ccwu.cc
   - DOMAIN-SUFFIX,dolby.dpdns.org
@@ -22,13 +23,16 @@ payload:
   - DOMAIN-SUFFIX,1653.us.ci
   - DOMAIN-SUFFIX,stream-4.miraiemby.com
   - DOMAIN-SUFFIX,vip1.miraiemby.com
-  - DOMAIN-SUFFIX,cnmbyd.xyz
   - DOMAIN-SUFFIX,a.wedg.top
   - DOMAIN-SUFFIX,tt.wedg.top
   - DOMAIN-SUFFIX,cf.wedg.top
   - DOMAIN-SUFFIX,jp.wedg.top
   - DOMAIN-SUFFIX,cmcc.wedg.top
   - DOMAIN-SUFFIX,yz.200036.xyz
+  - DOMAIN-SUFFIX,bydsb.cc.cd
+  - DOMAIN-SUFFIX,cnmbyd.xyz
+  - DOMAIN-SUFFIX,fw1.de5.net
+  - DOMAIN-SUFFIX,sbcnm.us.ci
   - DOMAIN-SUFFIX,emby.taotu.ink
   - DOMAIN-SUFFIX,saodu6.top
   - DOMAIN-SUFFIX,saodu6.cn
