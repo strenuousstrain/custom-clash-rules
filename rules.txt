@@ -17,7 +17,9 @@
   "DOMAIN-SUFFIX,lilyemby.cc,DIRECT",  //lilyemby官方反代
   "DOMAIN-SUFFIX,steinsgate.eu.org,DIRECT",  //lilyemby luo反代
   "DOMAIN-SUFFIX,embys.bbroot.com,DIRECT",  //墨云阁群友top通用反代
-  "DOMAIN-SUFFIX,v2go.cc.cd,DIRECT",  //墨云阁群友亦心通用反代
+  "DOMAIN-SUFFIX,yx.emby-cm.ccwu.cc,DIRECT",  //墨云阁群友亦心通用反代-移动
+  "DOMAIN-SUFFIX,yx.emby-cu.ccwu.cc,DIRECT",  //墨云阁群友亦心通用反代-联通
+  "DOMAIN-SUFFIX,yx.emby-ct.ccwu.cc,DIRECT",  //墨云阁群友亦心通用反代-电信
   "DOMAIN-SUFFIX,zz.zhouou6.ccwu.cc,DIRECT",  //拾光群友睡觉反代
   "DOMAIN-SUFFIX,1653.us.ci,DIRECT",  //拾光群友吴亦凡反代
   "DOMAIN-SUFFIX,stream-4.miraiemby.com,DIRECT", //Mirai反代直连线路推流地址
