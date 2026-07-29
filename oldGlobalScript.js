@@ -52,6 +52,7 @@ const prependRule = [
   "DOMAIN-SUFFIX,ct.cdn.bgp.yt,DIRECT",  //二次元VNPT分流4线路
   "DOMAIN-SUFFIX,okemby.wangjunqiang.dev,DIRECT",  //okemby反代2
   "DOMAIN-SUFFIX,okemby.wangjunqiang.indevs.in,DIRECT",  //okemby反代1
+  "DOMAIN-SUFFIX,tangtang.co,DIRECT",  //月亮辅线路
   "DOMAIN-SUFFIX,ct.772111.xyz,DIRECT",  //niubi电信直连线路
   "DOMAIN-SUFFIX,cu.772111.xyz,DIRECT",  //niubi联通直连线路
   "DOMAIN-SUFFIX,cm.772111.xyz,DIRECT",  //niubi移动直连线路
