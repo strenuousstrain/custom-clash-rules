@@ -16,6 +16,7 @@ const prependRule = [
   "DOMAIN-SUFFIX,255432.cc.cd,DIRECT",  //蒂日反代(移动)
   "DOMAIN-SUFFIX,255432.de5.net,DIRECT",  //蒂日反代(联通)
   "DOMAIN-SUFFIX,ada.6yhy.top,DIRECT",  //a大反代
+  "DOMAIN-SUFFIX,youko.cc.cd,DIRECT",  //youko反代
   "DOMAIN-SUFFIX,emby.noomi.eu.cc,DIRECT",  //通用反代(仅国内)
   "DOMAIN-SUFFIX,fx.emby1.ccwu.cc,DIRECT",  //Fx反代1
   "DOMAIN-SUFFIX,fx.emby2.ccwu.cc,DIRECT",  //Fx反代2
