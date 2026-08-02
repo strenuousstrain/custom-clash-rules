@@ -1,4 +1,4 @@
-#2026-7-5-02:15 更新
+#2026-8-2-15:40 更新
 payload:
   - DOMAIN-KEYWORD,epicgames
   - DOMAIN-KEYWORD,yusen
@@ -25,8 +25,6 @@ payload:
   - DOMAIN-SUFFIX,yx.emby-ct.ccwu.cc
   - DOMAIN-SUFFIX,zz.zhouou6.ccwu.cc
   - DOMAIN-SUFFIX,1653.us.ci
-  - DOMAIN-SUFFIX,stream-4.miraiemby.com
-  - DOMAIN-SUFFIX,vip1.miraiemby.com
   - DOMAIN-SUFFIX,a.wedg.top
   - DOMAIN-SUFFIX,tt.wedg.top
   - DOMAIN-SUFFIX,cf.wedg.top
