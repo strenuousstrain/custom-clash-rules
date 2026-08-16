@@ -30,10 +30,7 @@
   "DOMAIN-SUFFIX,cmcc.wedg.top,DIRECT",  //we移动线路
   "DOMAIN-SUFFIX,yz.200036.xyz,DIRECT",  //叶子测试线路
   "DOMAIN-SUFFIX,emby.taotu.ink,DIRECT", //乐蛙影视站线路
-  "DOMAIN-SUFFIX,bydsb.cc.cd,DIRECT",  //黑白灰の三网反代1
-  "DOMAIN-SUFFIX,cnmbyd.xyz,DIRECT",  //黑白灰の三网反代2
-  "DOMAIN-SUFFIX,fw1.de5.net,DIRECT",  //黑白灰の三网反代3
-  "DOMAIN-SUFFIX,sbcnm.us.ci,DIRECT",  //黑白灰の移动优化
+  "DOMAIN-SUFFIX,l5okyats-2lruf01f.biliblili.uk,DIRECT",  //结束乐队大陆优化线路
   "DOMAIN-SUFFIX,saodu6.top,DIRECT",  //MDL公益线路电信一
   "DOMAIN-SUFFIX,saodu6.cn,DIRECT",  //MDL公益线路电信二
   "DOMAIN-SUFFIX,5165163.xyz,DIRECT",  //MDL公益线路联通一
