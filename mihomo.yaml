@@ -1,4 +1,4 @@
-#2026-8-16-21:51 更新
+#2026-8-31-03:31 更新
 payload:
   - DOMAIN-KEYWORD,epicgames
   - DOMAIN-KEYWORD,yusen
@@ -17,6 +17,12 @@ payload:
   - DOMAIN-SUFFIX,fx.emby1.ccwu.cc
   - DOMAIN-SUFFIX,fx.emby2.ccwu.cc
   - DOMAIN-SUFFIX,fx.emby3.ccwu.cc
+  - DOMAIN-SUFFIX,plusjp1.younoyes.com
+  - DOMAIN-SUFFIX,plusde1.younoyes.com
+  - DOMAIN-SUFFIX,plusus1.younoyes.com
+  - DOMAIN-SUFFIX,plusus2.younoyes.com
+  - DOMAIN-SUFFIX,plusus3.younoyes.com
+  - DOMAIN-SUFFIX,plushk1.younoyes.com
   - DOMAIN-SUFFIX,lilyemby.cc
   - DOMAIN-SUFFIX,steinsgate.eu.org
   - DOMAIN-SUFFIX,embys.bbroot.com
