@@ -44,7 +44,9 @@ const prependRule = [
   "DOMAIN-SUFFIX,jp.wedg.top,DIRECT",  //we三网直连2
   "DOMAIN-SUFFIX,cmcc.wedg.top,DIRECT",  //we移动线路
   "DOMAIN-SUFFIX,yz.200036.xyz,DIRECT",  //叶子测试线路
-  "DOMAIN-SUFFIX,l5okyats-2lruf01f.biliblili.uk,DIRECT",  //结束乐队大陆优化线路
+  "DOMAIN-SUFFIX,l5okyats-2lruf01f.biliblili.uk,DIRECT",  //结束乐队大陆优化
+  "DOMAIN-SUFFIX,bilibili.43992026.xyz,DIRECT",  //结束乐队电信反代
+  "DOMAIN-SUFFIX,bilibiliv6.43992026.xyz,DIRECT",  //结束乐队移动优化v6
   "DOMAIN-SUFFIX,emby.taotu.ink,DIRECT", //乐蛙影视站线路
   "DOMAIN-SUFFIX,saodu6.top,DIRECT",  //MDL公益线路电信一
   "DOMAIN-SUFFIX,saodu6.cn,DIRECT",  //MDL公益线路电信二
