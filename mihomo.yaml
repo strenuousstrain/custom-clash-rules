@@ -17,6 +17,9 @@ payload:
   - DOMAIN-SUFFIX,fx.emby1.ccwu.cc
   - DOMAIN-SUFFIX,fx.emby2.ccwu.cc
   - DOMAIN-SUFFIX,fx.emby3.ccwu.cc
+  - DOMAIN-SUFFIX,ct.pdtvs.com
+  - DOMAIN-SUFFIX,cu.pdtvs.com
+  - DOMAIN-SUFFIX,cm.pdtvs.com
   - DOMAIN-SUFFIX,plusjp1.younoyes.com
   - DOMAIN-SUFFIX,plusde1.younoyes.com
   - DOMAIN-SUFFIX,plusus1.younoyes.com

@@ -15,6 +15,9 @@
   "DOMAIN-SUFFIX,fx.emby1.ccwu.cc,DIRECT",  //Fx反代1
   "DOMAIN-SUFFIX,fx.emby2.ccwu.cc,DIRECT",  //Fx反代2
   "DOMAIN-SUFFIX,fx.emby3.ccwu.cc,DIRECT",  //Fx反代3
+  "DOMAIN-SUFFIX,ct.pdtvs.com,DIRECT",  //pandacine电信优化
+  "DOMAIN-SUFFIX,cu.pdtvs.com,DIRECT",  //pandacine联通优化
+  "DOMAIN-SUFFIX,cm.pdtvs.com,DIRECT",  //pandacine移动优化
   "DOMAIN-SUFFIX,plusjp1.younoyes.com,DIRECT",  //younoplus日本直连
   "DOMAIN-SUFFIX,plusde1.younoyes.com,DIRECT",  //younoplus德国直连
   "DOMAIN-SUFFIX,plusus1.younoyes.com,DIRECT",  //younoplus美西直连1
