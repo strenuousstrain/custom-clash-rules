@@ -51,12 +51,13 @@ payload:
   - DOMAIN-SUFFIX,emby.5625678.xyz
   - DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
   - DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca
+  - DOMAIN-SUFFIX,cu.cdn.bgp.yt
+  - DOMAIN-SUFFIX,ru-e.cdn.bgp.yt
   - DOMAIN-SUFFIX,cm.cdn.bgp.yt
   - DOMAIN-SUFFIX,ct.cdn.bgp.yt
   - DOMAIN-SUFFIX,okemby.wangjunqiang.dev
   - DOMAIN-SUFFIX,okemby.wangjunqiang.indevs.in
   - DOMAIN-SUFFIX,eemby.cc.cd
-  - DOMAIN-SUFFIX,tangtang.co
   - DOMAIN-SUFFIX,ct.772111.xyz
   - DOMAIN-SUFFIX,cu.772111.xyz
   - DOMAIN-SUFFIX,cm.772111.xyz
