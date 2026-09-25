@@ -38,6 +38,7 @@ const prependRule = [
   "DOMAIN-SUFFIX,yx.emby-ct.ccwu.cc,DIRECT",  //墨云阁群友亦心通用反代-电信
   "DOMAIN-SUFFIX,zz.zhouou6.ccwu.cc,DIRECT",  //拾光群友睡觉反代
   "DOMAIN-SUFFIX,1653.us.ci,DIRECT",  //拾光群友吴亦凡反代
+  "DOMAIN-SUFFIX,emby.my,DIRECT",  //月饼线路
   "DOMAIN-SUFFIX,a.wedg.top,DIRECT",  //we主线路
   "DOMAIN-SUFFIX,tt.wedg.top,DIRECT",  //we主线路2
   "DOMAIN-SUFFIX,cf.wedg.top,DIRECT",  //we三网直连
